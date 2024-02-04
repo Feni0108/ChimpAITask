@@ -1,0 +1,6 @@
+@ChimpAITask_HostAddress = http://localhost:5011
+
+GET {{ChimpAITask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="80de5fbc-2ba7-4ae5-951a-e438af93529d" name="AdventureWorksLT2022@localhost Mapping">
+      <data-sources db="824b462e-577c-4836-9aba-7488c932285a" ddl="53b54d82-cd03-4e7f-8872-fcf7f3dfd4d8" />
+    </mapping>
+  </component>
+</project>
